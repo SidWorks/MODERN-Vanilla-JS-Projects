@@ -1,4 +1,4 @@
-# Paint Clone APP
+# Painting APP
 
 ## Built with HTML5, CSS3 and Vanilla Javascript
 
