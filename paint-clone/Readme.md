@@ -20,6 +20,4 @@
 
 ### I've also added a custom color input called JSColor to make sure that it looks the same regardless of browser or operating system.
 
-# In real the app looks like :
-
 # See the live project here :
